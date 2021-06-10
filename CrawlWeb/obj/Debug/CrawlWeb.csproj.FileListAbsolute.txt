@@ -1,0 +1,10 @@
+C:\Users\Thang\RiderProjects\CrawlWeb\CrawlWeb\bin\Debug\CrawlWeb.exe
+C:\Users\Thang\RiderProjects\CrawlWeb\CrawlWeb\bin\Debug\CrawlWeb.pdb
+C:\Users\Thang\RiderProjects\CrawlWeb\CrawlWeb\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Thang\RiderProjects\CrawlWeb\CrawlWeb\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Thang\RiderProjects\CrawlWeb\CrawlWeb\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Thang\RiderProjects\CrawlWeb\CrawlWeb\obj\Debug\CrawlWeb.csprojAssemblyReference.cache
+C:\Users\Thang\RiderProjects\CrawlWeb\CrawlWeb\obj\Debug\CrawlWeb.csproj.CoreCompileInputs.cache
+C:\Users\Thang\RiderProjects\CrawlWeb\CrawlWeb\obj\Debug\CrawlWeb.csproj.CopyComplete
+C:\Users\Thang\RiderProjects\CrawlWeb\CrawlWeb\obj\Debug\CrawlWeb.exe
+C:\Users\Thang\RiderProjects\CrawlWeb\CrawlWeb\obj\Debug\CrawlWeb.pdb
